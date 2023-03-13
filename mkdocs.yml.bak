@@ -1,0 +1,6 @@
+site_name: NI-HPC
+site_url: https://nihpc_docs.com
+nav :
+- Home: index.md
+- About: about.md
+- Training: 
